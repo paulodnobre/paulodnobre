@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Daniel Nobre
 
-<!--
-**paulodnobre/paulodnobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Engineer | Databricks Certified
 
-Here are some ideas to get you started:
+7+ years building cloud-native data platforms on AWS and Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in high-volume ingestion pipelines, Lakehouse architecture (Databricks · Delta Lake · Spark), and analytics-ready infrastructure at scale.
+
+My recent work intersects with AI systems — designing platforms that support LLM applications, RAG architectures, and ML workloads. 
+
+I'm particularly interested in how data infrastructure decisions shape what AI can realistically do in production.
+
+**Stack:** SQL · Python · PySpark · Databricks · Delta Lake · Kafka · AWS · Azure
+
+**Certifications:**
+- Databricks Certified Data Engineer Associate & Professional
+
+**Recent Projects:**
+- 🤖 [LLM as a Judge](https://github.com/paulodnobre/llm_as_a_judge) — evaluation framework using LLMs to assess model output quality
+- 🧠 [LLM Multi-Agent Pipeline](https://github.com/paulodnobre/llm-multi-agent-pipeline) — production-grade multi-agent system for automated content generation
+
+📍 Fortaleza, Brasil · [LinkedIn](https://linkedin.com/in/paulodnobre)
