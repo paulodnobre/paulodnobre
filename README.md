@@ -54,6 +54,7 @@ I'm particularly interested in how data infrastructure decisions shape what AI c
 
 ## 🏅 Certifications
 
+![Associate](https://img.shields.io/badge/Databricks-GenAI_Engineer_Associate_✓-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Associate](https://img.shields.io/badge/Databricks-DE_Associate_✓-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Professional](https://img.shields.io/badge/Databricks-DE_Professional_✓-CC2200?style=flat-square&logo=databricks&logoColor=white)
 
@@ -75,7 +76,7 @@ I'm particularly interested in how data infrastructure decisions shape what AI c
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 [LLM as a Judge](https://github.com/paulodnobre/llm_as_a_judge) | Evaluation framework using LLMs to assess model output quality | `Python` `LLM` |
-| 🧠 LLM Multi-Agent Pipeline | Production-grade multi-agent system for automated content generation | `Python` `Claude API` |
+| 🧠 [My Multi Agent](https://github.com/paulodnobre/my-multi-agent) | A governance harness for coding agents, designed to turn requirements into authorized, evidence-backed and auditable deliverables. | `Python` `Claude API` |
 | 🏗️ [Data Engineering Nanodegree](https://github.com/paulodnobre/udacity-data-engineering-nanodegree) | End-to-end pipelines, data modeling, and cloud infrastructure | `PySpark` `Airflow` `AWS` |
 
 ---
