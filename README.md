@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paulodnobre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulodnobre)
-[![GitHub](https://img.shields.io/badge/GitHub-paulodnobre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulodnobre)
+[![GitHub](https://img.shields.io/badge/GitHub-paulodnobre-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/paulodnobre](https://github.com/paulodnobre?tab=repositories))
 ![Location](https://img.shields.io/badge/📍_Fortaleza,_Brasil-informational?style=for-the-badge&color=2c5364)
 
 </div>
