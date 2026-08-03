@@ -1,8 +1,7 @@
-<div align="center">
+<div align="center" markdown="1">
+<h2>Hey, I'm Paulo Daniel Nobre 👋 </h2>
 
-<h2>👋 Daniel Nobre</h2>
-
-**Senior Data Engineer** | **Databricks Certified**
+**Senior Data Engineer** | **Databricks Specialist**
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paulodnobre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulodnobre)
