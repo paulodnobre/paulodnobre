@@ -79,5 +79,3 @@ I'm particularly interested in how data infrastructure decisions shape what AI c
 | 🏗️ [Data Engineering Nanodegree](https://github.com/paulodnobre/udacity-data-engineering-nanodegree) | End-to-end pipelines, data modeling, and cloud infrastructure | `PySpark` `Airflow` `AWS` |
 
 ---
-
-</div>
